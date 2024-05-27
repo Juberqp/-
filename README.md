@@ -1,5 +1,7 @@
 # 리눅스 명령어들
 
+![Tux svg](https://github.com/Juberqp/-/assets/50256472/8180791e-f411-4bff-a04c-2c20355302f0)
+
 ### -top
 현재 OS에 상태 정보를 출력하는 명령어.  
 
